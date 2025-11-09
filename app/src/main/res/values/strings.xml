@@ -1,5 +1,8 @@
 <resources>
     <string name="app_name">act11</string>
+    <string name="enter_address">Enter address</string>
+    <string name="search">Search</string>
+    <string name="map_view_description">Map with the location of the searched address</string>
     <string-array name="map_types">
         <item>Normal</item>
         <item>Satellite</item>
